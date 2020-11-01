@@ -1,0 +1,11 @@
+{
+  "name": "dev-ed-tutorials",
+  "version": "1.0.0",
+  "description": "This is a small node js course I'm learning.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OsikeB",
+  "license": "ISC"
+}
